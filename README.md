@@ -17,7 +17,7 @@
 
 - In the **main State** of the program we choose operation and select the next state based on that.
 
-  - {A: Popcorn, B:Beef, C: Chicken, D: User defined time}
+  - {A: Popcorn, B: Beef, C: Chicken, D: User defined time}
 
 - Once we are in the next state :
 
