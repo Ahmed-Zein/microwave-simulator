@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "door_interrupt.h": "c",
+        "hardwarefunctions.h": "c",
+        "cookingprogram.h": "c",
+        "microwavefuntions.h": "c",
+        "tm4c123gh6pm.h": "c"
+    }
+}
