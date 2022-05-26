@@ -44,7 +44,7 @@ char sw3;
 char *weight;
 int weightValue = 100;
 volatile int inTimeVal = 0;
-volatile bool screenUpdateFlage = 1;
+volatile bool screenUpdateFlage = 1; //prvents continuously refreshing the lcd while {pressing sw2 and the door is open}
 
 /* -----------------------      Function Definition     --------------------- */
 
